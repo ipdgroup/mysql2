@@ -1,3 +1,6 @@
+## Fork note:
+The purpose of this fork is to backport several patches to make the gem work better in Ruby 1.9.3
+
 # Mysql2 - A modern, simple and very fast MySQL library for Ruby - binding to libmysql
 
 GitHub Actions
